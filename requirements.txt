@@ -1,0 +1,5 @@
+pvporcupine
+pyaudio
+requests
+pyttsx3
+playsound
